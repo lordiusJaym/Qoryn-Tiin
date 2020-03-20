@@ -11,6 +11,7 @@ due to cancellations because of the COVID-19 pandemic.
 Worldbuilding is an activity defined by Wikipedia as
 > the process of constructing an imaginary world, sometimes
 > associated with a whole fictional universe.
+
 And this pretty much sums up what we are doing here. We are
 building, from the ground up, a world with the name of Qoryn 
 Tiin.
