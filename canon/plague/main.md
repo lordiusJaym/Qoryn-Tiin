@@ -1,6 +1,6 @@
 # The Haven Parasite
 
-##History
+## History
 
 >A plague known as the “Haven” parasite dates back to even around the first recordings of history.
 
@@ -16,7 +16,7 @@ However, this is unknown to most in Qoryn Tiin, as it is said that
 
 >[the Haven parasite] was a plague of unknown origin
 
-##Symptoms
+## Symptoms
 
 The Haven parasite had several identifying symptoms, most notably that it
 
@@ -36,7 +36,7 @@ while
 
 >the bone structure, organs, and tissue change to suit the parasites’ will
 
-##Reproduction
+## Reproduction
 
 >After attaching to the host it would begin draining energy for its survival and replicates itself killing the host and the next parasite continues on
 
@@ -55,7 +55,7 @@ However,
 
 >often infected hosts would implode in gory, luminescent, magic, [which] actually was used to advantage as [a] viable infective method
 
-##Host Integration
+## Host Integration
 
 As mentioned before,
 
@@ -73,19 +73,19 @@ Following "death",
 
 >the parasite begins to understand bodily function and makes less careless mistakes so the host can live. [It] begins to use signals and create stronger muscle tissue through its own stimulus, it also creates bigger and better organs through said stimulus. The host anatomy becomes unrecognizable as the bone structure, organs, and tissue change to suit the parasites’ will.
 
-##Appearance
+## Appearance
 
 >The parasite glows, very very small, and actually looks cute, often first mistaken as harmless.
 
 >They also can shape shift to not look like the Haven parasite. Like a bag of tea.
 
-##Immunity
+## Immunity
 
 >Dragons are immune but the Havins have evolved over time to be able to combat them.
 
 It has not been specified whether other races can be/are immunized.
 
-#The Denis Elliot Device
+# The Denis Elliot Device
 
 >Sometimes in certain areas this parasite would appear. They were known as the “Haven Outbreaks”. But slowly over time and with more centralization due to advancement in technology the parasite disappeared and was declared to be eradicated.
 
@@ -99,10 +99,10 @@ Current technology and the world conflict had other plans in store, though.
 
 >Denis Elliot made the parasite more dangerous so it can be quick and swift. So much so that the parasite would accidently kill itself after just a few hours and it also had a quick breeding rate so it could spread fast. He chose this disease for its infectivity and deadliness. However this genetically engineered and unknowingly magically engineered plague would prove its unpredictability.
 
-##Purpose
+## Purpose
 
 >The DED would be used against military installations and even on the front lines. After it was used the troops can move in after the Haven took its effect. But the empire’s military quickly changed their targets to civilians to diminish the enemy's spirit, morale, and productivity. And too a certain extent proved to be working and the empire made quick advances across territories.
 
-##Effect
+## Effect
 
 >Now the world is on the verge of collapse. Current surviving governments now put up a resistance against Haven on an allied front. It finally turned into a stalemate as the Qoryntinians fought against the evolution curve of Haven. It even starts to build a bigger [consciousness] of greater intelligence and survives indefinitely. So much so the infected hosts are called "Havins". To the current day the amount of mutations are almost lost track of and every foe a Qoryntinian face is an unpredictable one.
