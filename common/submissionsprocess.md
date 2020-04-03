@@ -42,13 +42,13 @@ Lower-level topics- the addition of a country, creature, facet of a magic system
 
 5) Depending on the amount of engagement (comment activity, upvotes, etc.), moderators will decide whether or not to integrate your submission into canon. **Thus, if you see a showcase you really like, engage!** Upvote it, ask questions, give comments, so that you increase the chances the post becomes canonized. If you post becomes canon, moderators will notify you via [WHERE?]
 
-6) After you finish your work, you may choose to continue the project, focusing on finer details or a different aspect of the topic entirely. If you choose to do this, it is expected that you will work towards another piece of polished content to post on the subreddit. Alternatively, you may choose to stop the project and disband your group of collaborators. If this is the case, contact a moderator on [WHERE?], and your Discord channel will be removed.
+6) After you finish your work, you may choose to continue the project, focusing on finer details or a different aspect of the topic entirely. If you choose to do this, it is expected that you will work towards another piece of polished content to post on the subreddit. Alternatively, you may choose to stop the project and disband your group of collaborators. If this is the case, contact a moderator on Discord or Reddit, and your Discord channel will be removed.
 
 ### Independent Projects
 
 In some situations, you may not want collaborators, for impracticality or whatever other reason. If this is the case, please take into account the following guidelines.
 
-* You do not need to make a recruitment post. Still, moderators will need to make sure your ideas fit in with canon before you begin working. Message one on [WHERE?], and they'll get back to you.
+* You do not need to make a recruitment post. Still, moderators will need to make sure your ideas fit in with canon before you begin working. Message one and they'll get back to you.
 
 * On your showcase post, please add the [INDEPENDENT] flair.
 
