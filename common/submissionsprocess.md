@@ -36,7 +36,7 @@ Lower-level topics- the addition of a country, creature, facet of a magic system
 
 2) A moderator will review the post, and if the idea fits with existing canon, they will post a link to a Discord channel for your project.
 
-3) Work! There are no deadlines for decentralized projects, and users are free to set whatever goals they wish (as long as it fits in with canon; check with mods if you're unsure). The aim should be to develop polished content that can be posted on Reddit, but whatever form that takes is up to the user- lore posts, concept art, infographics, maps, short stories, all mediums are welcome.
+3) Work! There are no deadlines for decentralized projects, and you are free to set whatever goals they wish (as long as it fits in with canon; check with mods if you're unsure). The aim should be to develop polished content that can be posted on Reddit, but whatever form that takes is up to you- lore posts, concept art, infographics, maps, short stories- all mediums are welcome.
 
 4) Once a piece of work is finished, get in contact with moderators. They will review the proposed post to make sure it meshes with canon. If they give you the go ahead, make a post on r/QorynTiin! Your post should have the [SHOWCASE] flair, as well as any applicable green flairs. If your post is not primarily a written work, please post a comment detailing the worldbuilding behind your submission.
 
