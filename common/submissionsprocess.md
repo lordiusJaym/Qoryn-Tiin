@@ -1,10 +1,12 @@
-# So you wanna help develop Qoryn Tiin?
+# *So you wanna help develop Qoryn Tiin?*
 
 Great! We're happy to have you. Before you start worldbuilding, please familiarize yourself with our guidelines for the process of submitting ideas. Note that this is a living document and that the rules may change as the Qoryn Tiin develops. If you have any questions, about the guidelines or anything else, feel free to contact a moderator on Reddit or Discord.
 
 ___
 
-Over time, Qoryn Tiin will host many projects at different scopes. There will be more centralized ones that will have the potential to affect all of canon, and there will be less centralized ones that won't. More centralized topics include magic systems, global geography, and broad history. Less centralized topics include details of specific places, races, and languages, among others. Due to the differing nature of these topics, the submission process will vary depending on the level of centralization.
+Over time, Qoryn Tiin will host many projects at different scopes. There will be more centralized ones that will have the potential to affect all of canon, and there will be less centralized ones that won't. More centralized topics include magic systems, global geography, and broad history. Less centralized topics include details of specific places, races, and languages, among others.
+
+Due to the differing nature of these topics, the submission process will vary depending on the level of centralization.
 
 ## Centralized Projects
 
@@ -64,7 +66,7 @@ Occasionally, while developing projects in teams, groups will disagree over the 
 
 2) Revise and polish your summaries. Keep in mind you are writing these summaries for a general audience, and that the people voting may not have all the information on the project you do. Keep summaries concise and relevant, two paragraphs or less.
 
-3) Contact a moderator (preferably the same one from earlier) and give them your revised summaries. They will set up a poll for other users to vote on their favorite idea. This poll will open [WHEN?] and will close after [HOW LONG? my vote is one day]. 
+3) Contact a moderator (preferably the same one from earlier) and give them your revised summaries. They will set up a poll for other users to vote on their favorite idea. This poll will close after [HOW LONG? my vote is one day]. 
 
 *Again, if the poll is about to end and there is a tie, a moderator will cast a vote to break it.*
 
@@ -93,7 +95,6 @@ We understand that people work very hard on their submissions, and that it can h
 * Qoryn Tiin's Discord server acts as a place for discussion. No decisions on canonization will be made on Discord. In addition, any major posts on Reddit (Polls, Prompts, etc) will be announced on Discord as well.
 
 ___
-
 
 Thank you for reading! If you still have any questions, again feel free to contact a moderator.
 
