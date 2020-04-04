@@ -1,10 +1,8 @@
 # So you wanna help develop Qoryn Tiin?
 
-Great! We're happy to have you. Before you start worldbuilding, please familiarize yourself with our [WHATEVER THIS IS CALLED]. There are several 
+Great! We're happy to have you. Before you start worldbuilding, please familiarize yourself with our guidelines for the process of submitting ideas. Note that this is a living document and that the rules may change as the Qoryn Tiin develops. If you have any questions, about the guidelines or anything else, feel free to contact a moderator on Reddit or Discord.
 
-whatever i don't have the patience now to write all hospitable
-
-[CENTRALIZATION > LIKELIHOOD OF AFFECTING OTHER PROJECTS; MORE CENTRALIZED, MORE LIKELY; LESS CENTRALISED, LESS LIKELY]
+___
 
 Over time, Qoryn Tiin will host many different projects at varying scopes. There will be more centralized ones that have the potential to affect all of canon, and there will be less centralized ones that likely won't. More centralized topics include magic systems, global geography, and broad history. Less centralized topics include details of specific places, races, and languages, among others. Due to the differing nature of these topics, the submission process will vary depending on the level of centralization.
 
@@ -20,11 +18,11 @@ For the biggest topics, the submission process will be led by moderators. This e
 
 *As an aside, don't hesitate to collaborate across ideas! If two groups have similar suggestions, consider combining them! The more teamwork before the final decision, the better.*
 
-4) At the submission date specified on the original prompt, moderators will ask [WHERE? DISCORD OR REDDIT?] for summaries of all currently proposed ideas. If everyone has come to an agreement on one proposal, that idea will be incorporated into canon by a team of integrators. Otherwise...
+4) At the submission date specified on the original prompt, moderators will ask for 1-2 paragraph summaries of all currently proposed ideas. If everyone has come to an agreement on one proposal, that idea will be incorporated into canon by a team of integrators. Otherwise...
 
 5) A poll will be held on Reddit between all remaining submissions. You are only allowed to vote once, so choose carefully! After [TWO?] days, the poll will close, and the winning submission will be integrated into canon.
 
-**Note that you are [not?] allowed to (do it by yourself)**
+**Note that for centralized projects, individual submissions are allowed, but discouraged. If you would like to make an individual submission, contact a moderator with a summary of your idea when the Prompt is posted. They will contact you for your final summary by the submission date.**
 
 ## Decentralized Projects
 
@@ -40,9 +38,9 @@ Lower-level topics- the addition of a country, creature, facet of a magic system
 
 4) Once a piece of work is finished, get in contact with moderators. They will review the proposed post to make sure it meshes with canon. If they give you the go ahead, make a post on r/QorynTiin! Your post should have the [SHOWCASE] flair, as well as any applicable green flairs. If your post is not primarily a written work, please post a comment detailing the worldbuilding behind your submission.
 
-5) Depending on the amount of engagement (comment activity, upvotes, etc.), moderators will decide whether or not to integrate your submission into canon. **Thus, if you see a showcase you really like, engage!** Upvote it, ask questions, give comments, so that you increase the chances the post becomes canonized. If you post becomes canon, moderators will notify you via [WHERE?]
+5) Depending on the amount of positive engagement (comment activity, upvotes, etc.), moderators will decide whether or not to integrate your submission into canon. **Thus, if you see a showcase you really like, engage!** Upvote it, ask questions, give comments, so that you increase the chances the post becomes canonized. If you post becomes canon, moderators will make a comment under your post saying so.
 
-6) After you finish your work, you may choose to continue the project, focusing on finer details or a different aspect of the topic entirely. If you choose to do this, it is expected that you will work towards another piece of polished content to post on the subreddit. Alternatively, you may choose to stop the project and disband your group of collaborators. If this is the case, contact a moderator on Discord or Reddit, and your Discord channel will be removed.
+6) After you finish your work, you may choose to continue the project, focusing on finer details or a different aspect of the project entirely. If you choose to do this, it is expected that you will work towards another piece of polished content to post on the subreddit. Alternatively, you may choose to stop the project and disband your group of collaborators. If this is the case, contact a moderator on Discord or Reddit, and your Discord channel will be removed.
 
 ### Independent Projects
 
@@ -56,4 +54,34 @@ In some situations, you may not want collaborators, for impracticality or whatev
 
 ### Conflict Resolution
 
-While we would like
+Occasionally while developing projects in teams, groups will come to conflict over the best path forward. **While we encourage these conflicts to be resolved through compromise,** we understand that sometimes disagreements can be too strong to do so. In these cases, a poll will be held on the subreddit to choose between the competing ideas, following the guidelines below.
+
+1) Contact a moderator to let them know that your project has conflicting ideas that need to be polled, including the context of your project, and the ideas themselves. They will review your request, ruling out any ideas that conflict with canon. If there is still more than one option, they will approve your request to poll.
+
+2) Write up a brief summary of your project, as well as summaries of all the conflicting ideas. Keep in mind you are writing these summaries for a general audience, and that the people voting may not have all the information on the project you do. Keep summaries concise and relevant, two paragraphs or less.
+
+3) Contact a moderator (preferably the same one from earlier) and give them your summaries. They will set up a poll for other users to vote on their favorite idea. This poll will open [WHEN?] and last [HOW LONG? my vote is one day]. If the poll is about to end and there is a tie, a moderator will cast a vote to break it.
+
+4) Continue your project, using the winning idea to guide your work.
+
+***Resolving conflicts via polling is considered a nuclear option. Only ask for a poll if you're positive there is no way to compromise between your ideas.***
+
+### Revision
+
+There may be times where a group/individual developing a project wishes to change it after their showcase. If this is the case, contact a moderator. These issues will be handled on a case-by-case basis, and may involve simply updating canon or a second poll, depending on the size of the revision.
+
+## Sportsmanship
+
+We understand that people work very hard on their submissions, and that it can hurt to see your project rejected. We encourage you to keep in mind that Qoryn Tiin is meant to be a fun activity for everyone involved, and would like to present some guidelines for good conduct.
+
+1) **Respect ideas (and the people behind them).** Even ideas you disagree with, even ideas you don't think would fit. Everyone is working hard to present their submissions, so stay respectful. Don't harass people, don't use slurs, all that stuff. Critique is welcomed, but keep it constructive! Focus on how things can improve, rather than just how things are wrong.
+
+2) **Don't take it personal.** At the end of the day, some submissions are going to be approved, and some aren't. This means nothing about you as a person, and shouldn't discourage you from working on other projects in the future! If your submission is voted down, please try to take it with grace.
+
+3) Likewise, **don't be a sore winner**. If your idea is the winner of a poll, remain respectful to the losing submissions.
+
+___
+
+Again, thank you for reading. If you still have any questions, feel free to contact a moderator.
+
+From the mod team, we hope you enjoy your time here at Qoryn Tiin!
