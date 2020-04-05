@@ -1,3 +1,11 @@
+# META - BEFORE THIS CAN BE IMPLEMENTED SOME DETAILS NEED TO BE IRONED OUT
+**Will we be using the term [Gathering] or [Recruitment]?**
+
+**How long will Centralized polls be open?**
+
+**How long will conflict resolution polls be open?**
+___
+
 # *So you wanna help develop Qoryn Tiin?*
 
 Great! We're happy to have you. Before you start worldbuilding, please familiarize yourself with our guidelines for the process of submitting ideas. Note that this is a living document and that the rules may change as the Qoryn Tiin develops. If you have any questions, about the guidelines or anything else, feel free to contact a moderator on Reddit or Discord.
