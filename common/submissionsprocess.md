@@ -76,7 +76,7 @@ Occasionally, while developing projects in teams, groups will disagree over the 
 
 ### Revision
 
-There may be times where a group/individual developing a project wishes to change it after their Showcase and integration. If this is the case, contact a moderator. These issues will be handled on a case-by-case basis, and may involve simply updating canon or a second poll, depending on the size of the revision.
+There may be times where a group or individual developing a project wishes to change it after their Showcase and integration. If this is the case, contact a moderator. These issues will be handled on a case-by-case basis, and may involve simply updating canon or a second poll, depending on the size of the revision.
 
 ## Sportsmanship
 
