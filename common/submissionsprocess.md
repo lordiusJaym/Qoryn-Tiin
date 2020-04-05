@@ -1,9 +1,3 @@
-# META - BEFORE THIS CAN BE IMPLEMENTED SOME DETAILS NEED TO BE IRONED OUT
-
-**How long will Centralized polls be open?**
-
-**How long will conflict resolution polls be open?**
-
 # So you wanna help develop Qoryn Tiin?
 
 Great! We're happy to have you. Before you start worldbuilding, please familiarize yourself with our guidelines for the process of submitting ideas. Note that this is a living document and that the rules may change as the Qoryn Tiin develops. If you have any questions, about the guidelines or anything else, feel free to contact a moderator on Reddit or Discord.
@@ -28,7 +22,7 @@ For the biggest topics, the submission process will be led by moderators. This e
 
 4) At the submission date specified on the original prompt, moderators will ask for 1-2 paragraph summaries of all currently proposed ideas. If everyone has come to an agreement on one proposal, that idea will be incorporated into canon by a team of integrators. Otherwise...
 
-5) A poll will be held on Reddit between all remaining submissions. You are only allowed to vote once, so choose carefully! After [TWO?] days, the poll will close, and the winning submission will be integrated into canon. 
+5) A poll will be held on Reddit between all remaining submissions. You are only allowed to vote once, so choose carefully! After two days, the poll will close, and the winning submission will be integrated into canon. 
 
 *If, shortly before the poll closes, there appears to be a tie, a moderator will cast a final vote before the poll closes.*
 
@@ -72,7 +66,7 @@ Occasionally, while developing projects in teams, groups will disagree over the 
 
 3) Revise and polish your summaries. Keep in mind you are writing these summaries for a general audience, and that the people voting may not have all the information on the project you do. Keep summaries concise and relevant, two paragraphs or less.
 
-4) Contact a moderator (preferably the same one from earlier) and give them your revised summaries. They will set up a poll for other users to vote on their favorite idea. This poll will close after [HOW LONG? my vote is one day]. 
+4) Contact a moderator (preferably the same one from earlier) and give them your revised summaries. They will set up a poll for other users to vote on their favorite idea. This poll will close after a day. 
 
 *Again, if the poll is about to end and there is a tie, a moderator will cast a vote to break it.*
 
