@@ -64,13 +64,13 @@ Occasionally, while developing projects in teams, groups will disagree over the 
 
 2) Contact a moderator to let them know that your project has conflicting ideas that need to be polled, including the written summaries of your project and proposals. The moderator will review your request, ruling out any ideas that conflict with canon. If there is still more than one option, they will approve your request to poll.
 
-2) Revise and polish your summaries. Keep in mind you are writing these summaries for a general audience, and that the people voting may not have all the information on the project you do. Keep summaries concise and relevant, two paragraphs or less.
+3) Revise and polish your summaries. Keep in mind you are writing these summaries for a general audience, and that the people voting may not have all the information on the project you do. Keep summaries concise and relevant, two paragraphs or less.
 
-3) Contact a moderator (preferably the same one from earlier) and give them your revised summaries. They will set up a poll for other users to vote on their favorite idea. This poll will close after [HOW LONG? my vote is one day]. 
+4) Contact a moderator (preferably the same one from earlier) and give them your revised summaries. They will set up a poll for other users to vote on their favorite idea. This poll will close after [HOW LONG? my vote is one day]. 
 
 *Again, if the poll is about to end and there is a tie, a moderator will cast a vote to break it.*
 
-4) Continue your project, using the winning idea to guide your work.
+5) Continue your project, using the winning idea to guide your work.
 
 ***Resolving conflicts via polling is considered a nuclear option. Only ask for a poll if you're positive there is no way to compromise between your ideas.***
 
