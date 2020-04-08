@@ -1,12 +1,4 @@
-# META - BEFORE THIS CAN BE IMPLEMENTED SOME DETAILS NEED TO BE IRONED OUT
-**Will we be using the term [Gathering] or [Recruitment]?**
-
-**How long will Centralized polls be open?**
-
-**How long will conflict resolution polls be open?**
-___
-
-# *So you wanna help develop Qoryn Tiin?*
+# So you wanna help develop Qoryn Tiin?
 
 Great! We're happy to have you. Before you start worldbuilding, please familiarize yourself with our guidelines for the process of submitting ideas. Note that this is a living document and that the rules may change as the Qoryn Tiin develops. If you have any questions, about the guidelines or anything else, feel free to contact a moderator on Reddit or Discord.
 
@@ -30,7 +22,7 @@ For the biggest topics, the submission process will be led by moderators. This e
 
 4) At the submission date specified on the original prompt, moderators will ask for 1-2 paragraph summaries of all currently proposed ideas. If everyone has come to an agreement on one proposal, that idea will be incorporated into canon by a team of integrators. Otherwise...
 
-5) A poll will be held on Reddit between all remaining submissions. You are only allowed to vote once, so choose carefully! After [TWO?] days, the poll will close, and the winning submission will be integrated into canon. 
+5) A poll will be held on Reddit between all remaining submissions. You are only allowed to vote once, so choose carefully! After two days, the poll will close, and the winning submission will be integrated into canon. 
 
 *If, shortly before the poll closes, there appears to be a tie, a moderator will cast a final vote before the poll closes.*
 
@@ -42,7 +34,7 @@ Lower-level topics- the additions of a country, creature, facet of a magic syste
 
 *These first few steps are if you are looking for collaborators. If you prefer to submit an idea on your own, still read through this, but pay special attention to the **Independent Projects** section below.*
 
-1) If you have an idea for a project, make a post on the subreddit with the [RECRUITMENT/GATHERING] flair, as well any and all green flairs that are relevant to the submission ([HISTORY] and [CIVILIZATION] for a project about an old empire, for instance). Again, this post should have a summary of your core idea, and will work to get collaborators.
+1) If you have an idea for a project, make a post on the subreddit with the [Gathering] flair, as well any and all green flairs that are relevant to the submission ([HISTORY] and [CIVILIZATION] for a project about an old empire, for instance). Again, this post should have a summary of your core idea, and will work to get collaborators.
 
 2) A moderator will review the post, and if the idea fits with existing canon, they will post a link to a Discord channel for your project.
 
@@ -54,7 +46,7 @@ Lower-level topics- the additions of a country, creature, facet of a magic syste
 
 6) After you finish your work, you may choose to continue the project, focusing on finer details or exploring it from a different angle. If you choose to do this, it is expected that you will work towards another piece of polished content to post on the subreddit. Alternatively, you may choose to stop the project and disband your group of collaborators. If this is the case, contact a moderator on Discord or Reddit, and your Discord channel will be removed.
 
-### Independent Projects
+## Independent Projects
 
 In some situations, you may not want collaborators, for impracticality or whatever other reason. If this is the case, please take into account the following guidelines.
 
@@ -64,7 +56,7 @@ In some situations, you may not want collaborators, for impracticality or whatev
 
 * All other above guidelines follow.
 
-### Conflict Resolution
+## Conflict Resolution
 
 Occasionally, while developing projects in teams, groups will disagree over the best path forward. **While we *strongly* encourage these conflicts to be resolved through discussion,** we understand that sometimes compromise isn't possible. In these cases, a poll will be held on the subreddit to choose between the competing ideas, following the guidelines below.
 
@@ -74,7 +66,7 @@ Occasionally, while developing projects in teams, groups will disagree over the 
 
 3) Revise and polish your summaries. Keep in mind you are writing these summaries for a general audience, and that the people voting may not have all the information on the project you do. Keep summaries concise and relevant, two paragraphs or less.
 
-4) Contact a moderator (preferably the same one from earlier) and give them your revised summaries. They will set up a poll for other users to vote on their favorite idea. This poll will close after [HOW LONG? my vote is one day]. 
+4) Contact a moderator (preferably the same one from earlier) and give them your revised summaries. They will set up a poll for other users to vote on their favorite idea. This poll will close after a day. 
 
 *Again, if the poll is about to end and there is a tie, a moderator will cast a vote to break it.*
 
@@ -82,7 +74,7 @@ Occasionally, while developing projects in teams, groups will disagree over the 
 
 ***Resolving conflicts via polling is considered a nuclear option. Only ask for a poll if you're positive there is no way to compromise between your ideas.***
 
-### Revision
+## Revision
 
 There may be times where a group or individual developing a project wishes to change it after their Showcase and integration. If this is the case, contact a moderator. These issues will be handled on a case-by-case basis, and may involve simply updating canon or a second poll, depending on the size of the revision.
 
@@ -98,7 +90,7 @@ We understand that people work very hard on their submissions, and that it can h
 
 ## Final Notes
 
-* Generally, users are free to join and leave teams at any time. If you missed the window of the original Recruitment/Gathering post, you are still allowed to work on the project, given people in the team are okay with it.
+* Generally, users are free to join and leave teams at any time. If you missed the window of the original Gathering post, you are still allowed to work on the project, given people in the team are okay with it.
 
 * Qoryn Tiin's Discord server acts as a place for discussion. No decisions on canonization will be made on Discord. In addition, any major posts on Reddit (Polls, Prompts, etc) will be announced on Discord as well.
 
