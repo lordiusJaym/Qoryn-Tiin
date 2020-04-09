@@ -33,13 +33,14 @@ client.on('message', message => {
         
         message.react('📜');
     }
-    //CODEMARK: Responds to users message with reaction saying it collected the emoji, it then after a certian amount of time
-    //lordiusBots.send(`The number of supporters for ${message.author} is ${collected.size} for their idea '${message.content}'!`))
-    const filter = (reaction, user) => reaction.emoji.name === '📜' && user.id === message.author.id
-    
-    const collector = message.createReactionCollector(filter, { time: 15000 });
-        
+    //CODEMARK: Responds to users message with reaction saying it collected the emoji, it then after a certian amount of time it tells how many reactions it collected
+    //ISSUES: The message only says one reaction is collected even though several react, responds to every message even withought reactions
+    //PINNED CODE:lordiusBots.send(`The number of supporters for ${message.author} is ${collected.size} for their idea '${message.content}'!`))
+    //Only collects '📜' emojis
+    const filter = reaction => reaction.emoji.name === '📜'
+    //Sets the reaction collecter to await for messages with reactions and then respond after 15 seconds
     message.awaitReactions(filter, { time: 15000 })
+    
         .then(collected => lordiusBots.send(`Collected ${collected.size}`))
-
+    //END OF CODEMARK
 });
