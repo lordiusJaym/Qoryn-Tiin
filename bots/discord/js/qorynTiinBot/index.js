@@ -38,7 +38,7 @@ client.on('message', message => {
     //PINNED CODE:lordiusBots.send(`The number of supporters for ${message.author} is ${collected.size} for their idea '${message.content}'!`))
     //Only collects '📜' emojis
     const filter = reaction => reaction.emoji.name === '📜'
-    //Sets the reaction collecter to await for messages with reactions and then respond after 15 seconds
+    //Sets the reaction collector to await for messages with reactions and then respond after 15 seconds
     message.awaitReactions(filter, { time: 15000 })
     
         .then(collected => lordiusBots.send(`Collected ${collected.size}`))
