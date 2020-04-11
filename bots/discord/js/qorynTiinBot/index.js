@@ -13,10 +13,6 @@ client.once('ready', () => {
     var general =  client.channels.cache.find(channel => channel.id === '692944191151407186');
     
     var ideasFeed =  client.channels.cache.find(channel => channel.id === '688932291401220151');
-    //lordiusBots.send('Hello world!')
-});
-
-client.on('message', message => {
     //Make sure the bot doesn't reply to itself
     if (message.author.bot) return;
     
