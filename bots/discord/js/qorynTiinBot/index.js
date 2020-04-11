@@ -10,6 +10,9 @@ client.once('ready', () => {
     //The bots wake up message to the lordius-bots channel
     var lordiusBots = client.channels.cache.find(channel => channel.id === '692944191151407186');
     
+    var general =  client.channels.cache.find(channel => channel.id === '692944191151407186');
+    
+    var ideasFeed =  client.channels.cache.find(channel => channel.id === '688932291401220151');
     //lordiusBots.send('Hello world!')
 });
 
@@ -28,9 +31,9 @@ client.on('message', message => {
     //Only collects '📜' emojis
     const scroll = reaction => reaction.emoji.name === '📜'
     //Sets the reaction collector to await for messages with reactions and then respond after 15 seconds
-    message.awaitReactions(scroll, { time: 15000 })
+    message.awaitReactions(scroll, { time: 86400000 })
     
-        .then(collected => collected.map(s => lordiusBots.send(`The number of supporters for ${message.author} is ${s.count} for their idea '${message.content}'!`)));
+        .then(collected => collected.map(s => ideasFeed.send(`The number of supporters for ${message.author} is ${s.count} for their idea '${message.content}'!`)));
     //CODEMARK
     const thumbsUp = reaction => reaction.emoji.name === ('📜','👍') 
     
