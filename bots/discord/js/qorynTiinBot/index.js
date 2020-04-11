@@ -25,22 +25,17 @@ client.on('message', message => {
         console.log('Systems check,...systems nominal');
         
     }
-    //NEED TO CODE:
-    //Bot finds messages with the scroll reaction
-    
-    //Bot reacts with scroll emoji to message that starts with 'react'
-    if(message.content.startsWith('react')){
-        
-        message.react('📜');
-    }
-    //CODEMARK: Responds to users message with reaction saying it collected the emoji, it then after a certian amount of time it tells how many reactions it collected
-    //ISSUES: The message only says one reaction is collected even though several react, responds to every message even withought reactions
-    //PINNED CODE:lordiusBots.send(`The number of supporters for ${message.author} is ${collected.size} for their idea '${message.content}'!`))
     //Only collects '📜' emojis
-    const filter = reaction => reaction.emoji.name === '📜'
+    const scroll = reaction => reaction.emoji.name === '📜'
     //Sets the reaction collector to await for messages with reactions and then respond after 15 seconds
-    message.awaitReactions(filter, { time: 15000 })
+    message.awaitReactions(scroll, { time: 15000 })
     
-        .then(collected => lordiusBots.send(`Collected ${collected.size}`))
+        .then(collected => collected.map(s => lordiusBots.send(`The number of supporters for ${message.author} is ${s.count} for their idea '${message.content}'!`)));
+    //CODEMARK
+    const thumbsUp = reaction => reaction.emoji.name === ('📜','👍') 
+    
+    message.awaitReactions(thumbsUp, {time: 1000})
+    
+        .then(collected => collected.map(s => lordiusBots.send(`${message.author} your idea has been approved!`)));
     //END OF CODEMARK
 });
