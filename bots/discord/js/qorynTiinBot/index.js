@@ -10,13 +10,18 @@ client.once('ready', () => {
     //The bots wake up message to the lordius-bots channel
     var lordiusBots = client.channels.cache.find(channel => channel.id === '692944191151407186');
     
-    var general =  client.channels.cache.find(channel => channel.id === '692944191151407186');
-    
-    var ideasFeed =  client.channels.cache.find(channel => channel.id === '688932291401220151');
+    //lordiusBots.send('Hello world!')
+});
+
+client.on('message', message => {
     //Make sure the bot doesn't reply to itself
     if (message.author.bot) return;
     
     var lordiusBots = client.channels.cache.find(channel => channel.id === '692944191151407186');
+    
+    var general =  client.channels.cache.find(channel => channel.id === '692944191151407186');
+    
+    var ideasFeed =  client.channels.cache.find(channel => channel.id === '688932291401220151');
     //Check if the bot is online
     if(message.content.startsWith('check')){
         
